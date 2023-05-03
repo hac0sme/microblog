@@ -35,7 +35,7 @@ body {
 .navbar__logo {
   margin-right: 30px;
   max-width: 40%;
-  border-radius: 2em;
+/*   border-radius: 2em; */
   justify-content: center;
 }
 
